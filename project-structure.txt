@@ -1,0 +1,24 @@
+baseline-revenue-tracker/
+├── README.md
+├── package.json
+├── .gitignore
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+└── src/
+    ├── components/
+    │   ├── BaselineModel/
+    │   │   ├── index.jsx
+    │   │   ├── BaselineChart.jsx
+    │   │   ├── ChannelBreakdown.jsx
+    │   │   └── styles.module.css
+    │   └── ui/
+    │       ├── Card.jsx
+    │       └── Button.jsx
+    ├── data/
+    │   └── revenueData.js
+    ├── utils/
+    │   └── calculations.js
+    ├── App.jsx
+    ├── index.jsx
+    └── index.css
